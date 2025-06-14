@@ -20,3 +20,6 @@ build/
 dist/
 *.pyc
 __pycache__/
+
+# pyenv
+.python-version
